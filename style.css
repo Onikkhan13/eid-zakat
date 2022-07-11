@@ -231,6 +231,7 @@
     border: 1px solid rgba(128, 128, 128, 0.458);
     border-radius: 15px;
     height: 500px;
+    overflow: hidden;
 }
 .width{
     width: 100%;
